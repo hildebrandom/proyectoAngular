@@ -1,0 +1,10 @@
+.example-container{
+    width: 100%;
+}
+.row{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.msg{
+    color: red;
+}
